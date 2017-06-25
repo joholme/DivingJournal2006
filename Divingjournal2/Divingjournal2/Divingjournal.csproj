@@ -226,8 +226,6 @@
     <Content Include="bin\Owin.dll" />
     <Content Include="bin\System.Web.Optimization.dll" />
     <Content Include="bin\System.Web.Providers.dll" />
-    <Content Include="bin\System.Web.Razor.dll" />
-    <Content Include="bin\System.Web.Razor.xml" />
     <Content Include="bin\System.Web.WebPages.Deployment.dll" />
     <Content Include="bin\System.Web.WebPages.Deployment.xml" />
     <Content Include="bin\System.Web.WebPages.dll" />
