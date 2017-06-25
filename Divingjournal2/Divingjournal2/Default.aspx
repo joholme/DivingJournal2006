@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
      <link href="css/bootstrap.css" rel="stylesheet" />
-    <h1 class="h1">Elektronisk loggføring av dykkejournaler</h1>
+    <h1 class="h1">Elektronisk loggføring av dykkejournal</h1>
     
         
    
