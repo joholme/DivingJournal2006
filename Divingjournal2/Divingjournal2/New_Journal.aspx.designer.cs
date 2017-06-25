@@ -109,7 +109,7 @@ namespace Divingjournal2 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::AjaxControlToolkit.PopupControlExtender PopupControlExtender1;
+       
         
         /// <summary>
         /// Local_save_panel control.
@@ -6652,7 +6652,7 @@ namespace Divingjournal2 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::AjaxControlToolkit.AlwaysVisibleControlExtender StopWatchTable_AlwaysVisibleControlExtender;
+       
         
         /// <summary>
         /// StopWatchTable_DropShadowExtender control.
@@ -6661,6 +6661,6 @@ namespace Divingjournal2 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::AjaxControlToolkit.DropShadowExtender StopWatchTable_DropShadowExtender;
+        
     }
 }
