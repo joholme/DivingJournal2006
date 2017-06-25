@@ -809,7 +809,6 @@
     <Content Include="css\bootstrap-theme.min.css.map" />
     <Content Include="css\bootstrap.css.map" />
     <Content Include="css\bootstrap.min.css.map" />
-    <Content Include="obj\Release\CoreCompileInputs.cache" />
     <Content Include="SessionCheck.aspx" />
     <Content Include="StopWatch.js" />
     <Content Include="Write_Journal.aspx" />
